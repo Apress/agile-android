@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="title_activity">Zodiac</string>
+    <string name="item_selected">Item selected:</string>
+</resources>

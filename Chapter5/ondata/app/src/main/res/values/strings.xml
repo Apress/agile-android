@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ondata</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity">To Do List Test</string>
+    <string name="item_selected">Item selected:</string>
+</resources>

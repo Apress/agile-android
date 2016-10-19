@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/codio/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-98e55b40ab370c8b90b107b3274e3dd7feeca46d.jar" />
+    </item>
+    <item
+        jar="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-b07c7e8c018d4f2e57dd10dcacd4ac5187fa824d.jar" />
+    </item>
+    <item
+        jar="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8465fad6dd05b954b82bd5ff22edd80992808561">
+        <dex dex="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-f87795d0271adb6978d97664f8320b6ee0dae0bb.jar" />
+    </item>
+    <item
+        jar="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/pre-dexed/debug/classes-22d48337257f0ab1ed6f37e69c3f9e305bb0f850.jar" />
+    </item>
+    <item
+        jar="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/codio/workspace/Chapter3/NetworkConnect/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-0c56aa0542621de83b245755576edd1f330c6834.jar" />
+    </item>
+
+</items>
